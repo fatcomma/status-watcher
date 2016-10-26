@@ -1,4 +1,4 @@
-# status-watcher
+# :eyes: status-watcher :eyes:
 
 ## Introduction
 
